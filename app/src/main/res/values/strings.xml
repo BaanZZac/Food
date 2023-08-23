@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">요리보고 재료보고</string>
+    <string name="title_activity_menu_list">MenuListActivity</string>
+</resources>
