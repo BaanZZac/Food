@@ -170,5 +170,6 @@ fun HomeButton(backgroundImage: Painter) {
 fun Preview(){
     val backgroundImage = painterResource(id = R.drawable.fresh)
     HomeButton(backgroundImage)
+    var bb = 22
 }
 
